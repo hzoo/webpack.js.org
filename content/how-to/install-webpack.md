@@ -6,7 +6,7 @@ contributors:
 
 ### Pre-requisites
 
-We assume you have `node` and `npm` already installed.
+We assume you have `node` (Node.js) and `npm` already installed.
 
 ### Global Installation
 
