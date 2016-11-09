@@ -106,7 +106,7 @@ index.js  1.56 kB       0  [emitted]  main
 
 If you check out the *build* directory, it should contain the built file. It contains some familiar code from above, but in addition it contains webpack bootstrapping code. That code makes more sense as you add dependencies to your project.
 
-T> Try adding another file to your project and point to it from *app/index.js* using either a CommonJS `require` or ES6 `import` statement. webpack should pick it up and include it to your bundle.
+T> Try adding another file to your project and point to it from *app/index.js* using either ES6 `import` statement or a CommonJS `require` expression. webpack should pick it up and include it to your bundle.
 
 ## Setting Up Configuration
 
